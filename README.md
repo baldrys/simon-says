@@ -2,6 +2,8 @@
 
 The simon game on vue.js.
 
+Available at [github pages](https://baldrys.github.io/simon-says/). 
+
 # screenshot
 
 ![](images/Screenshot.png)
